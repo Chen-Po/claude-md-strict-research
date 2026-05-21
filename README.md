@@ -1,8 +1,5 @@
 # 🛡️ Claude Code Strict Research & Data Rules (CLAUDE.md)
 
-[![GitHub stars](https://shields.io)](https://github.com)
-[![License: MIT](https://shields.io)](https://opensource.org)
-
 > **Tired of Claude "confident guessing" and messing up your data analysis, plotting, or biological metrics?**
 
 This repository provides an enterprise-grade `CLAUDE.md` template tailored specifically for **Data Science, Bioinformatics, Software Engineering, and Academic Research** where absolute accuracy, reproducibility, and traceability are paramount.
