@@ -2,7 +2,7 @@
 
 > **Tired of Claude "confident guessing" and messing up your data analysis, plotting, or biological metrics?**
 
-This repository provides an enterprise-grade `CLAUDE.md` template tailored specifically for **Data Science, Bioinformatics, Software Engineering, and Academic Research** where absolute accuracy, reproducibility, and traceability are paramount.
+This repository provides a strict research-oriented `CLAUDE.md` template and optional Claude Code skills that encourage Claude to inspect files, run verification commands, separate evidence from speculation, and preserve analysis provenance before making scientific or data-analysis claims.
 
 ---
 
